@@ -4,7 +4,7 @@ A modern, animated redesign of the Tulas International School homepage focusing 
 
 ## 🚀 Live Demo
 - **Live URL:** Not deployed yet
-- **Repository:** Add the public GitHub URL after publishing this project
+- **Repository:** https://github.com/Chetannaik-9535/TULA-S-INTERNATIONAL-SCHOOL
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 14 (App Router) with TypeScript
@@ -23,8 +23,8 @@ A modern, animated redesign of the Tulas International School homepage focusing 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tis-homepage-redesign.git
-   cd tis-homepage-redesign
+   git clone https://github.com/Chetannaik-9535/TULA-S-INTERNATIONAL-SCHOOL.git
+   cd TULA-S-INTERNATIONAL-SCHOOL
    ```
 
 2. **Install dependencies:**
@@ -64,5 +64,5 @@ Production check: `npm run build`
 ## Before Submission
 
 - Deploy the project and replace the live URL above with the public deployment link.
-- Push the project to a public GitHub repository and replace the repository note above.
+- Confirm the public GitHub repository is available.
 - Test the page at 375px, 768px and 1280px or wider, and confirm the external TIS links and hero image load in the deployment environment.
